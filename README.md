@@ -52,7 +52,7 @@ Additionally, Static NAT was set up on Router 1 using specific internal and exte
 
 <br />
 <br />
-<img src="https://github.com/sdkallullathil/cisco_projects/blob/ac1f4aa78414ea6de22bd70bea712917a8bc62db/lab4.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sdkallullathil/cisco_projects/blob/8436cb01fbc8f291116a781f7b0f44c964e970bf/lab3.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
